@@ -4,6 +4,6 @@
 
 → **Senior Cloud Engineer** @ SAP Cloud Infrastructure
 
-→ Working on the **[Apeiro Reference Architecture](https://apeirora.eu/)**
+→ Working on the **[Apeiro Reference Architecture](https://apeirora.eu/)** 🇪🇺
 
 → Current Focus: **Observability** • **OpenSearch** • **OpenTelemetry** • **Greenhouse**
